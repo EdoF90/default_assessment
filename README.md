@@ -4,10 +4,9 @@ This library simulates credit risk environments. The are supported by two differ
 
 ## Citing Us
 
-Multi-Stage
 
 ```Bibtex
-@article{gioia2024,
+@article{fadda2024,
 	author = {Edoardo Fadda, Elisa Luciano and Patrizia Semeraro},
 	journal = {Submitted},
 	publisher={...},
